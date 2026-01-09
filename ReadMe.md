@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I'm currently working on an Open-source OSINT app for cybersecurity awareness<br><br>🤝  I'm looking to collaborate on open-source tools related to privacy, the decentralized web, and other exciting tech projects. <br><br>🧠 I'm currently learning advanced machine learning, forensic analysis & Software architecture
+🎯 I'm currently working on an OSINT app for cybersecurity awareness<br><br>🤝  I'm looking to collaborate on open-source tools related to privacy, the decentralized web, and other exciting tech projects. <br><br>🧠 I'm currently learning advanced machine learning, forensic analysis & Software architecture.
 
 
 ## 🌐 Socials:
