@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Victor 👋</h1>
 <h3 align="center">AI Product Engineer · Full-Stack Developer · API & QA</h3>
-<p align="center"><i>Créer, comprendre et connecter — c'est ma façon d'innover.</i></p>
 
 # 💫 About Me:
 🚀 AI Product Engineer & DevRel [@Eden AI](https://www.edenai.co) — the unified API that routes to the best AI models (100+ providers behind one OpenAI-compatible endpoint).<br><br>🔌 I integrate Eden AI into the open-source AI ecosystem — coding agents, AI gateways, LLM frameworks and no-code builders.<br><br>🌉 I build bridges between engineering and creativity: a background in marketing, an artistic sensibility shaped by music, and a product-driven mindset.<br><br>🧠 Currently sharpening: LLM tooling, API design & software architecture.
