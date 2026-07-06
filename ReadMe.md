@@ -4,6 +4,9 @@
 # 💫 About Me:
 🚀 AI Product Engineer & DevRel [@Eden AI](https://www.edenai.co) — the unified API that routes to the best AI models (100+ providers behind one OpenAI-compatible endpoint).<br><br>🔌 I integrate Eden AI into the open-source AI ecosystem — coding agents, AI gateways, LLM frameworks and no-code builders.<br><br>🌉 I build bridges between engineering and creativity: a background in marketing, an artistic sensibility shaped by music, and a product-driven mindset.<br><br>🧠 Currently sharpening: LLM tooling, API design & software architecture.
 
+# 🏆 Highlights:
+🥇 **14th place — Hack for Humanity 2026** with **FoodSaver AI**, an app that cuts household food waste by 40% via AI-powered expiration tracking, recipe suggestions for expiring ingredients, and community food sharing. *Built with React · Node.js · OpenAI · Chart.js.*
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-m-smith/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victor.smith@edenai.co) [![Eden AI](https://img.shields.io/badge/Eden%20AI-040F31?logo=icloud&logoColor=white)](https://www.edenai.co)
