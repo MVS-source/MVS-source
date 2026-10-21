@@ -1,32 +1,51 @@
-<h3 align="center">AI Product Engineer · Full-Stack Developer · API & QA</h3>
+<h3 align="center">AI Product Engineer · DevRel @ Eden AI · Open-source integrations</h3>
 
-# 💫 About Me:
-🚀 AI Product Engineer & DevRel [@Eden AI](https://www.edenai.co) — the unified API that routes to the best AI models (700+ providers behind one OpenAI-compatible endpoint).<br><br>🔌 I integrate Eden AI into the open-source AI ecosystem — coding agents, AI gateways, LLM frameworks and no-code builders.<br><br> I build bridges between engineering and creativity: a background in marketing, an artistic sensibility shaped by music, and a product-driven mindset.<br><br> Currently sharpening: LLM tooling, API design & software architecture.
+<p align="center">
+<a href="https://www.linkedin.com/in/victor-m-smith/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:victor.smith@edenai.co"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.edenai.co"><img src="https://img.shields.io/badge/Eden%20AI-040F31?logo=icloud&logoColor=white" alt="Eden AI"></a>
+</p>
 
-# 🏆 Highlights:
-🥇 **14th place — [Hack for Humanity 2026](https://hack-for-humanity-26.devpost.com/)** with **[FoodSaver AI](https://devpost.com/software/foodsaver-ai)**, an app that cuts household food waste by 40% via AI-powered expiration tracking, recipe suggestions for expiring ingredients, and community food sharing. *Built with React · Node.js · OpenAI · Chart.js.*
+## About
 
+AI Product Engineer and DevRel at [Eden AI](https://www.edenai.co), the unified API that routes to the best AI models through one OpenAI-compatible endpoint.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-m-smith/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victor.smith@edenai.co) [![Eden AI](https://img.shields.io/badge/Eden%20AI-040F31?logo=icloud&logoColor=white)](https://www.edenai.co)
+My work is integrations. I add Eden AI as a provider to the open-source AI ecosystem: coding agents, AI gateways, LLM frameworks and no-code builders. 45 merged pull requests so far, 22 of them Eden AI integrations across 21 upstream projects.
 
-# 💻 Tech Stack:
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Currently sharpening LLM tooling, API design and software architecture.
 
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## 🔌 Merged integrations
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+| Project | Stars | What landed |
+|---|---|---|
+| [opencode](https://github.com/anomalyco/opencode/pull/43386) | 219k | Eden AI in the providers list |
+| [nanobot](https://github.com/HKUDS/nanobot/pull/4861) | 49k | Eden AI as an OpenAI-compatible gateway |
+| [open-code-review](https://github.com/alibaba/open-code-review/pull/346) | 47k | Built-in Eden AI provider preset |
+| [Fabric](https://github.com/danielmiessler/Fabric/pull/2165) | 44k | Eden AI as an OpenAI-compatible provider |
+| [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/671) | 42k | Eden AI as an LLM provider |
+| [Kilo Code](https://github.com/Kilo-Org/kilocode/pull/13169) | 28k | Eden AI provider page |
+| [Haystack](https://github.com/deepset-ai/haystack/pull/12101) | 27k | Chat generator, embedders, component docs |
+| [aisuite](https://github.com/andrewyng/aisuite/pull/345) | 16k | Eden AI provider |
+| [nullclaw](https://github.com/nullclaw/nullclaw/pull/990) | 8k | Eden AI as an OpenAI-compatible gateway |
+| [Repowise](https://github.com/repowise-dev/repowise/pull/705) | 8k | Eden AI as a first-class LLM provider and embedder |
 
-### Backend & Data
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+Plus eleven more merged: Plano, Atomic Agents, open-connector, agent-router, any-llm (Mozilla AI), PyGPT, Lynkr, Nextcloud, ApowerB and the Haystack integration packages.
+[Full list](https://github.com/search?q=is%3Apr+author%3AMVS-source+is%3Amerged&type=pullrequests) · [Eden AI docs I maintain](https://www.edenai.co/docs)
 
-### DevOps & Tooling
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 🏆 Highlights
 
-# 📊 GitHub Stats:
+**"Esprit collaboratif" prize, Hackathon AIdant 2026** with team **Prometheus** (Sopra Steria x Le Village by CA Centre-est, Lyon, 9 to 11 Oct 2026. 47 students, 12 teams, 48 hours. Double award, shared with team BOB-R). Built **IBA, Intelligent Box Access**, a caregiving signal layer on top of nello (Crédit Agricole): a Go 1.26 + Gin backend that holds the facts and never calls a model, a Python/Strands device agent exposing an MCP server, and an Opus 5 orchestrator fanning out to Sonnet 5 and Nova Lite sub-agents on AWS Bedrock. Redaction is a hard boundary, the API refuses the call if a first name survived it. JWT HS256 with role middleware, 39 end-to-end checks against the real pipeline.
+
+**14th place, [Hack for Humanity 2026](https://hack-for-humanity-26.devpost.com/)** (768 participants, one month, software for the environment) with [FoodSaver AI](https://devpost.com/software/foodsaver-ai): AI expiration tracking, recipe generation scoped to ingredients about to expire, and a community sharing layer. React, Node.js, OpenAI, Chart.js.
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white) ![nexos.ai](https://img.shields.io/badge/nexos.ai-1A1A1A?style=flat-square) ![GreenPT](https://img.shields.io/badge/GreenPT-1DB954?style=flat-square)
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 📊 Stats
+
 ![Profile views](https://komarev.com/ghpvc/?username=MVS-source&style=for-the-badge&color=040F31&label=PROFILE+VIEWS)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=MVS-source&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MVS-source&theme=dark&hide_border=false)<br/>
