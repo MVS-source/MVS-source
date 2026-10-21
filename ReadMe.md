@@ -29,7 +29,6 @@ Currently sharpening LLM tooling, API design and software architecture.
 | [Repowise](https://github.com/repowise-dev/repowise/pull/705) | 8k | Eden AI as a first-class LLM provider and embedder |
 
 and others: Plano, Atomic Agents, open-connector, agent-router, any-llm (Mozilla AI), PyGPT, Lynkr, Nextcloud, ApowerB.
-[Eden AI docs I maintain](https://www.edenai.co/docs)
 
 ## 🏆 Highlights
 
