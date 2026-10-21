@@ -23,22 +23,21 @@ Currently sharpening LLM tooling, API design and software architecture.
 | [open-code-review](https://github.com/alibaba/open-code-review/pull/346) | 47k | Built-in Eden AI provider preset |
 | [Fabric](https://github.com/danielmiessler/Fabric/pull/2165) | 44k | Eden AI as an OpenAI-compatible provider |
 | [DeepTutor](https://github.com/HKUDS/DeepTutor/pull/671) | 42k | Eden AI as an LLM provider |
-| [Kilo Code](https://github.com/Kilo-Org/kilocode/pull/13169) | 28k | Eden AI provider page |
 | [Haystack](https://github.com/deepset-ai/haystack/pull/12101) | 27k | Chat generator, embedders, component docs |
 | [aisuite](https://github.com/andrewyng/aisuite/pull/345) | 16k | Eden AI provider |
 | [nullclaw](https://github.com/nullclaw/nullclaw/pull/990) | 8k | Eden AI as an OpenAI-compatible gateway |
 | [Repowise](https://github.com/repowise-dev/repowise/pull/705) | 8k | Eden AI as a first-class LLM provider and embedder |
 
-Plus eleven more merged: Plano, Atomic Agents, open-connector, agent-router, any-llm (Mozilla AI), PyGPT, Lynkr, Nextcloud, ApowerB and the Haystack integration packages.
-[Full list](https://github.com/search?q=is%3Apr+author%3AMVS-source+is%3Amerged&type=pullrequests) · [Eden AI docs I maintain](https://www.edenai.co/docs)
+and others: Plano, Atomic Agents, open-connector, agent-router, any-llm (Mozilla AI), PyGPT, Lynkr, Nextcloud, ApowerB.
+[Eden AI docs I maintain](https://www.edenai.co/docs)
 
 ## 🏆 Highlights
 
-**"Esprit collaboratif" prize, Hackathon AIdant 2026** with team **Prometheus** (Sopra Steria x Le Village by CA Centre-est, Lyon, 9 to 11 Oct 2026. 47 students, 12 teams, 48 hours. Double award, shared with team BOB-R). Built **IBA, Intelligent Box Access**, a caregiving signal layer on top of nello (Crédit Agricole): a Go 1.26 + Gin backend that holds the facts and never calls a model, a Python/Strands device agent exposing an MCP server, and an Opus 5 orchestrator fanning out to Sonnet 5 and Nova Lite sub-agents on AWS Bedrock. Redaction is a hard boundary, the API refuses the call if a first name survived it. JWT HS256 with role middleware, 39 end-to-end checks against the real pipeline.
+**"Esprit collaboratif" prize, Hackathon AIdant 2026** (Sopra Steria x Le Village by CA Centre-est, Lyon) with team Prometheus.
+Built IBA, a caregiving signal layer over nello (Crédit Agricole): Go backend, MCP server, multi-agent orchestration on AWS Bedrock.
 
-**14th place, [Hack for Humanity 2026](https://hack-for-humanity-26.devpost.com/)** (768 participants, one month, software for the environment) with [FoodSaver AI](https://devpost.com/software/foodsaver-ai): AI expiration tracking, recipe generation scoped to ingredients about to expire, and a community sharing layer. React, Node.js, OpenAI, Chart.js.
-
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white) ![nexos.ai](https://img.shields.io/badge/nexos.ai-1A1A1A?style=flat-square) ![GreenPT](https://img.shields.io/badge/GreenPT-1DB954?style=flat-square)
+**14th place, [Hack for Humanity 2026](https://hack-for-humanity-26.devpost.com/)** with [FoodSaver AI](https://devpost.com/software/foodsaver-ai),
+an app that tracks food expiration and suggests recipes for ingredients about to expire. React, Node.js, OpenAI.
 
 ## Tech stack
 
